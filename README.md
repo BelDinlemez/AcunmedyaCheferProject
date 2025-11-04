@@ -11,4 +11,4 @@
 
 
 
-<img src="https://raw.githubusercontent.com/BelDinlemez/AcunmedyaCheferProjec/master/image.png" alt="Görsel" />
+<img src="https://raw.githubusercontent.com/BelDinlemez/AcunmedyaCheferProject/master/image.png" alt="Görsel" />
